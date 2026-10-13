@@ -1,0 +1,19 @@
+{
+  "name": "yoursecondhome.co",
+  "version": "1.0.0",
+  "description": "Digital Transformation & Business Modernization Landing Page for yoursecondhome.co",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "digital-transformation",
+    "business-digitalization",
+    "landing-page",
+    "workflow-automation",
+    "cloud-modernization"
+  ],
+  "author": "yoursecondhome.co",
+  "license": "MIT"
+}
