@@ -30,5 +30,5 @@ In our first 90 days:
 # Start the built-in zero-dependency preview server
 npm start
 ```
-Then open [http://localhost:3000](http://localhost:3000) in your browser. Or open `index.html` directly.
+Then open [http://localhost:3004](http://localhost:3004) in your browser. Or open `index.html` directly.
 # yoursecondhome.co
